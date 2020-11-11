@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am software engineer, feel free to clone the flutter,dart and javascript projects in my profile.  
+I am a software engineer, feel free to clone and star the flutter,dart and javascript projects in my profile.  
 
 - 🔭 I’m currently working on a Flutter(Expense_manager) project
 - 🌱 I’m currently learning how to collaborate✔
