@@ -8,8 +8,21 @@ I am software engineer, feel free to clone the flutter,dart and javascript proje
 - 💬 Ask me about flutter and js
 - ⚡ Fun fact: I love films
 
+
+### Open Source Projects
+
+[![HackerNewsMobileApp](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=HackerNewsMobileApp)](https://github.com/petermusembi69/HackerNewsMobileApp)
+[![Emoji_Flutter](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=Emoji_Flutter)](https://github.com/petermusembi69/Emoji_Flutter)
+[![admin_page_vanilla_css](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=admin_page_vanilla_css)](https://github.com/petermusembi69/admin_page_vanilla_css)
+[![expense_manager](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=expense_manager)](https://github.com/petermusembi69/expense_manager)
+
+
+
+
 <!--
 **petermusembi69/petermusembi69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
+[![Peter Musembi's Github Stats](https://github-readme-stats.vercel.app/api?username=petermusembi69&count_private=true&theme=default&show_icons=true)](https://github.com/petermusembi69)
 
 -->
