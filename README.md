@@ -13,7 +13,7 @@ I am a software engineer, feel free to clone and star the flutter,dart and javas
 
 [![HackerNewsMobileApp](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=HackerNewsMobileApp)](https://github.com/petermusembi69/HackerNewsMobileApp)
 [![Emoji_Flutter](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=Emoji_Flutter)](https://github.com/petermusembi69/Emoji_Flutter)
-[![admin_page_vanilla_css](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=admin_page_vanilla_css)](https://github.com/petermusembi69/admin_page_vanilla_css)
+[![Easy-List](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=Easy-List)](https://github.com/petermusembi69/Easy-List)
 [![expense_manager](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=expense_manager)](https://github.com/petermusembi69/expense_manager)
 
 
