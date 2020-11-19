@@ -16,7 +16,22 @@ I am a software engineer, feel free to clone and star the flutter,dart and javas
 [![Easy-List](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=Easy-List)](https://github.com/petermusembi69/Easy-List)
 [![expense_manager](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=expense_manager)](https://github.com/petermusembi69/expense_manager)
 
-
+### Git Stars
+<table>
+  
+  <tr>
+      <td>
+        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petermusembi69&hide=html&layout=compact" />
+    </td>
+      <td>
+        <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=petermusembi69&count_private=true&theme=default&show_icons=true" />
+    </td>
+    
+  </tr>  
+  
+</table>
+<br/>
+<br/>
 
 
 <!--
