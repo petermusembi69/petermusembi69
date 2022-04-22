@@ -8,13 +8,6 @@ I am a software engineer, you will find flutter,dart and javascript projects in 
 - 💬 Ask me about flutter and js
 - ⚡ Fun fact: I love films
 
-
-### Open Source Projects
-
-[![HackerNewsMobileApp](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=HackerNewsMobileApp)](https://github.com/petermusembi69/HackerNewsMobileApp)
-[![Emoji_Flutter](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=Emoji_Flutter)](https://github.com/petermusembi69/Emoji_Flutter)
-[![Easy-List](https://github-readme-stats.vercel.app/api/pin/?username=petermusembi69&repo=Easy-List)](https://github.com/petermusembi69/Easy-List)
-
 ### Git Stars
 <table>
   
